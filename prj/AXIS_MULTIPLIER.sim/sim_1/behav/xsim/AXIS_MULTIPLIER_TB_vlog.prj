@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../rtl/axis_control.v" \
+"../../../../AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/ip/AXIS_MULTIPLIER_axis_control_0_0/sim/AXIS_MULTIPLIER_axis_control_0_0.v" \
+"../../../../AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/sim/AXIS_MULTIPLIER.v" \
+"../../../../AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/hdl/AXIS_MULTIPLIER_wrapper.v" \
+"../../../../../sim/AXIS_MULTIPLIER_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

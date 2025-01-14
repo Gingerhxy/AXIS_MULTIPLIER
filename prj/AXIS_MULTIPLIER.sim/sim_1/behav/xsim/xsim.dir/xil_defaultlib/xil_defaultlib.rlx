@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/hdl/AXIS_MULTIPLIER_wrapper.v,1736840899,verilog,,D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/sim/AXIS_MULTIPLIER_TB.v,,AXIS_MULTIPLIER_wrapper,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/ip/AXIS_MULTIPLIER_axis_control_0_0/sim/AXIS_MULTIPLIER_axis_control_0_0.v,1736840900,verilog,,D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/sim/AXIS_MULTIPLIER.v,,AXIS_MULTIPLIER_axis_control_0_0,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/ip/AXIS_MULTIPLIER_mult_gen_0_0/sim/AXIS_MULTIPLIER_mult_gen_0_0.vhd,1736840899,vhdl,,,,axis_multiplier_mult_gen_0_0,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/sim/AXIS_MULTIPLIER.v,1736840899,verilog,,D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/hdl/AXIS_MULTIPLIER_wrapper.v,,AXIS_MULTIPLIER,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/rtl/axis_control.v,1736840817,verilog,,D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/prj/AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/ip/AXIS_MULTIPLIER_axis_control_0_0/sim/AXIS_MULTIPLIER_axis_control_0_0.v,,axis_control,,,,,,,,
+D:/Code_repositories/fpga_code/AXIS_MULTIPLIER/sim/AXIS_MULTIPLIER_TB.v,1736840964,verilog,,,,AXIS_MULTIPLIER_TB,,,,,,,,

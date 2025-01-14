@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../AXIS_MULTIPLIER.srcs/sources_1/bd/AXIS_MULTIPLIER/ip/AXIS_MULTIPLIER_mult_gen_0_0/sim/AXIS_MULTIPLIER_mult_gen_0_0.vhd" \
+
+# Do not sort compile order
+nosort
